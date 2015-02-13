@@ -1,0 +1,39 @@
+* {
+	font-family: sans-serif;
+}
+h4 {
+	font-weight: normal;
+}
+ul {
+	list-style-type: none;
+	margin-left:80%;
+}
+li {
+	display: inline-block;
+}
+img {
+	height:15px;
+}
+#reviews div {
+	width:450px;
+	border-top:solid black 3px;
+}
+div p{
+	margin-left:5px;
+}
+#reviews, #add_review {
+	display: inline-block;
+	vertical-align: top;
+}
+#add_review {
+	margin-left:100px;
+}
+form>* {
+	display: block;
+	margin:10px auto;
+}
+textarea {
+	width:200px;
+	height:50px;
+	border:2px solid black;
+}

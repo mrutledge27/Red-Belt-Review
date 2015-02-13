@@ -1,0 +1,37 @@
+* {
+	font-family: sans-serif;
+}
+header h2, header ul, header li{
+	display: inline-block;
+	font-weight: normal;
+}
+header ul {
+	margin-left:60%;
+}
+ul {
+	list-style-type: none;
+}
+img {
+	height:15px;
+}
+div {
+	margin-left:15px;
+	margin-bottom:10px;
+}
+#other, #reviews {
+	display: inline-block;
+	vertical-align: top;
+}
+#reviews {
+	width:400px;
+}
+#scroll {
+	overflow: scroll;
+	border:3px solid black;
+	height:100px;
+	width:275px;
+}
+#scroll a {
+	margin:10px;
+	display: block;
+}

@@ -1,0 +1,19 @@
+* {
+	font-family: sans-serif;
+}
+ul {
+	list-style-type: none;
+}
+header li {
+	display: inline-block;
+}
+li {
+	margin:10px;
+}
+h4, h3 {
+	margin:4px;
+	font-weight: normal;
+}
+h3 {
+	margin-top:10px;
+}

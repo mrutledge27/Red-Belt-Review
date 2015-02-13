@@ -1,0 +1,23 @@
+* {
+	font-family: sans-serif;
+}
+h1 {
+	font-weight: normal;
+}
+form {
+	height:300px;
+	width:250px;
+	display: inline-block;
+	vertical-align: top;
+	border:3px solid black;
+	text-align: right;
+
+}
+label {
+	display: block;
+	margin:10px;
+}
+p {
+	font-size:11px;
+	margin-right:10px;
+}
